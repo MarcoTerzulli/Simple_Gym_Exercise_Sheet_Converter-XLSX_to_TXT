@@ -4,7 +4,8 @@ This repository contains a simple script for a quick conversion of my gym exerci
 Gym is the place where I relax. I prefer not to be distracted from my phone while I’m training, or being afraid of it being stolen.
 For this reason I like leaving my phone at home whenever I can and give my tired eyes a break!
 
-As a nerd, I don't like having my sheet printed or hand written on a paper. Instead, I find more comfortable having it always on my wrist on my smartwatch. However, since I'm a lazy guy, I didn't want to waste my time by copying and pasting all the execercises inside a Google Keep note every time I make a change to my training sheet: that's the reason that make me write this simple script.
+As a nerd, I don't like having my sheet printed or hand written on a paper. Instead, **I find more comfortable having it always on my wrist** on my smartwatch. <br>
+However, since I'm a lazy guy, I didn't want to waste my time by copying and pasting all the execercises inside a **Google Keep** note every time I make a change to my training sheet: that's the reason that make me write this simple script.
 
 *Bonus*: I included my new Legs / Push / Pull Hypertrophy Bodybuilding program that I just created.
 
