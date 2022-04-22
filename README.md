@@ -59,12 +59,12 @@ I included some simple customisations:
 
 ## Script Purposes and Limitations
 
-The script is not intended to work on different sheets formats than the one provided. 
+**The script is not intended to work on different sheets formats than the one provided.** <br>
 You can edit the training days names and increase or reduce their number. However, **you cannot remove or add columns or rename them**.
 
 I wrote this script in my free time because it's really useful for me, and I decided to share it hoping it could be useful to someone.
 
-The script is shared as a sample with some simple customisations available. 
+The script is **shared as a sample** with some simple customisations available. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
