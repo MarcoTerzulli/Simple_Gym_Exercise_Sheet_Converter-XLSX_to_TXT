@@ -1,4 +1,4 @@
-# Simple Gym Exercise Sheet Converter - From XLSX to TXT for Smartwatch Note
+# Simple Gym Exercise Sheet Converter - From XLSX to TXT for Smartwatch Notes
 This repository contains a simple script for a quick conversion of my gym exercises sheets from XLS to TXT, to make the importation on Goggle Keep quickly.
 
 Gym is the place where I relax. I prefer not to be distracted from my phone while I’m training, or being afraid of it being stolen.
