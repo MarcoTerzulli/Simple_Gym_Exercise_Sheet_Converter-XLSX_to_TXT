@@ -46,7 +46,7 @@ Install the necessary Python Libraries using the following shell command: ```pip
 
 ## How the Script Works
 
-The script operation is pretty simple and straight forward.
+The script operation is pretty simple and straight forward. The script opens and converts the specified XLSX file, and then copies the resulting txt in your clipboard.
 
 I included some simple customisations:
 * Setting of the number of blank lines between each exercise row
