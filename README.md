@@ -2,7 +2,7 @@
 This repository contains a simple script for a quick conversion of my gym exercises sheets from XLS to TXT, to make the importation on my Apple Watch's Google Keep notes quicker.
 
 Gym is the place where I relax. I prefer not to be distracted from my phone while I’m training, or being afraid of it being stolen.
-For this reason I like leaving my phone at home whenever <ins>I can and give my tired eyes a break!</ins>
+For this reason I like leaving my phone at home whenever I can and <ins>*give my tired eyes a break!*</ins>
 
 As a nerd, I don't like having my sheet printed or hand written on a paper. Instead, **I find more comfortable having it always on my wrist** on my smartwatch. <br>
 However, since I'm a lazy guy, I don't want to waste my time by copying and pasting all the execercises from an Excel Sheet to a **Google Keep** note every time I make a change to my training sheet: that's the reason that led me to write this simple script.
