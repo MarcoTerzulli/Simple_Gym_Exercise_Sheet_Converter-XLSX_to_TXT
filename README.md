@@ -50,8 +50,8 @@ Install the necessary Python Libraries using the following shell command: ```pip
 The script operation is pretty simple and straight forward. The script opens and converts the specified XLSX file, and then copies the resulting txt in your clipboard.
 
 I included some simple customisations:
-* Setting of the number of blank lines between each exercise row
-* selection of the bullet list dot type
+* Setting for the number of blank lines between each exercise row
+* Selection of the bullet list dot type
 * Selection of the item list separator
 
 <p align="right">(<a href="#top">back to top</a>)</p>
