@@ -5,7 +5,7 @@ Gym is the place where I relax. I prefer not to be distracted from my phone whil
 For this reason I like leaving my phone at home whenever I can and give my tired eyes a break!
 
 As a nerd, I don't like having my sheet printed or hand written on a paper. Instead, **I find more comfortable having it always on my wrist** on my smartwatch. <br>
-However, since I'm a lazy guy, I don't want to waste my time by copying and pasting all the execercises inside a **Google Keep** note every time I make a change to my training sheet: that's the reason that led me to write this simple script.
+However, since I'm a lazy guy, I don't want to waste my time by copying and pasting all the execercises from an Excel Sheet to a **Google Keep** note every time I make a change to my training sheet: that's the reason that led me to write this simple script.
 
 *Bonus*: I included my new Legs / Push / Pull Hypertrophy Bodybuilding program that I just created.
 
@@ -71,7 +71,8 @@ The script is **shared as a sample** with some simple customisations available.
 
 ## Notes About the Included Training Program
 
-**I’m not a professional qualified coach**, but just a guy with a passion and years of experience inside gyms. The included program is tuned for my body and my goals, and its given for free and without any warranties just for the purpose of showing how the conversion script works.
+**I’m not a professional qualified coach**, but just a guy with a passion and years of experience inside gyms. <br>
+The included program is tuned for my body and my goals, and its given for free and without any warranties just for the purpose of showing how the conversion script works.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
