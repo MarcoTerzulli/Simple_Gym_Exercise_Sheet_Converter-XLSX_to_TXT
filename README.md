@@ -85,6 +85,6 @@ The included program is tuned for my body and my goals, and its given for free a
 
 
 ## Known Issues
-* 
+No known issues so far!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
